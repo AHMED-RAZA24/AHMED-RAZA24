@@ -6,13 +6,43 @@
 
 ---
 
+
 ## 🚀 About Me
 
-- 👨‍💻 I'm a React.js developer.
-- 🌱 I'm continuously learning and improving my development skills.
-- 💡 I enjoy building websites and practical projects.
-- 📍 Based in Pakistan.
-- 📫 Email: ahmedrazashoaib24@gmail.com
+<div align="center">
+
+### 👋 Hi, I'm Ahmed Raza!
+
+**React.js Developer | MERN Stack Web Developer 🇵🇰**
+
+*Turning ideas into responsive and user-friendly web experiences.*
+
+</div>
+
+---
+
+- 💻 **Frontend Development:** React.js, JavaScript, HTML5 & CSS3
+- 🎨 **UI Development:** Responsive layouts and modern web interfaces
+- 🌱 **Currently Learning:** Improving my development and problem-solving skills
+- 🛠️ **Projects:** Building websites and practical web applications
+- 📍 **Location:** Pakistan
+- 📧 **Email:** [Contact Me](mailto:ahmedrazashoaib24@gmail.com)
+
+### 🎯 My Goals
+
+- 🚀 Build modern and responsive web applications
+- 📚 Learn new technologies and improve my coding skills
+- 🤝 Collaborate with developers and work on exciting projects
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect and Build Something Great!
+
+[![GitHub](https://img.shields.io/badge/GitHub-AHMED--RAZA24-181717?style=for-the-badge&logo=github)](https://github.com/AHMED-RAZA24)
+
+</div>
 
 ---
 
