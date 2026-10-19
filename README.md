@@ -1,17 +1,10 @@
 
 <div align="center">
-
-# 👋 Hi, I'm Ahmed Raza
-
-### React.js Developer | MernStack Web Developer 🇵🇰
-
-Building responsive and user-friendly web experiences.
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-AHMED--RAZA24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AHMED-RAZA24)
-
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078971573444)
-
+  <img
+    src="./ahmed-raza-banner.png"
+    alt="Ahmed Raza - Full Stack Web Developer"
+    width="100%"
+  />
 </div>
 
 ---
