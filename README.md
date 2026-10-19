@@ -1,8 +1,8 @@
+
 <div align="center">
-  <img src="./ahmed-raza-banner.png"
-       alt="Ahmed Raza - Developer Banner"
-       width="100%" />
+  <img src="./ahmed-raza-banner.png" alt="Ahmed Raza Developer Banner" width="100%" />
 </div>
+
 
 ---
 
