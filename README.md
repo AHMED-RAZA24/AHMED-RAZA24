@@ -7,7 +7,8 @@
 
 Building responsive and user-friendly web experiences.
 
-[![GitHub](https://img.shields.io/badge/GitHub-AHMED-RAZA24-181717?style=for-the-badge&logo=github)](https://github.com/AHMED-RAZA24)
+
+[![GitHub](https://img.shields.io/badge/GitHub-AHMED--RAZA24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AHMED-RAZA24)
 
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078971573444)
 
@@ -40,11 +41,11 @@ Building responsive and user-friendly web experiences.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Raza-2012&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AHMED-RAZA24&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Raza-2012&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED-RAZA24&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-Raza-2012&theme=tokyonight)](https://github.com/Ahmed-Raza-2012)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AHMED-RAZA24&theme=tokyonight)](https://github.com/AHMED-RAZA24)
 
 </div>
 
