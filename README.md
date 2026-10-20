@@ -172,15 +172,46 @@
 
 ---
 
-## 🤝 Let's Connect
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-AHMED--RAZA24-181717?style=for-the-badge&logo=github)](https://github.com/AHMED-RAZA24)
+### 🍔 Noman Burger — Restaurant Website
 
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078971573444)
+A modern restaurant website focused on menu browsing, deals, and online ordering.
+
+**Tech Stack:** React.js · Tailwind CSS · Supabase
+
+[![View Repository](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AHMED-RAZA24)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/AHMED-RAZA24)
+
+---
+
+### 💼 Personal Portfolio
+
+A portfolio website showcasing my developer profile, skills, and projects.
+
+**Tech Stack:** React.js · JavaScript · CSS
+
+[![View Repository](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AHMED-RAZA24)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-inky-one-47.vercel.app)
 
 </div>
+
+---
+
+## 💡 What I'm Working On
+
+- ⚛️ Improving my React.js development skills.
+- 🎨 Building responsive and user-friendly interfaces.
+- 🚀 Developing practical web projects.
+- 📚 Learning new tools and technologies.
+
+---
+
 
 ---
 
