@@ -147,21 +147,42 @@
 
 ---
 
-## 📊 GitHub Stats
+
+---
+
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AHMED-RAZA24&show_icons=true&theme=tokyonight)
+### 📈 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED-RAZA24&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=AHMED-RAZA24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ahmed Raza's GitHub Stats" width="49%" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AHMED-RAZA24&theme=tokyonight)](https://github.com/AHMED-RAZA24)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED-RAZA24&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="49%" />
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=AHMED-RAZA24&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="70%" />
+
+### 🏆 GitHub Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AHMED-RAZA24&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
 
 </div>
 
 ---
 
+## 🤝 Let's Connect
+
 <div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-AHMED--RAZA24-181717?style=for-the-badge&logo=github)](https://github.com/AHMED-RAZA24)
+
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078971573444)
+
+</div>
+
+---
 
 ### ⭐ Thanks for visiting my profile!
 
