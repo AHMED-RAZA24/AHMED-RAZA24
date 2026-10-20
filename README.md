@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="./ahmed-raza-banner.png" alt="Ahmed Raza Developer Banner" width="100%" />
 </div>
@@ -198,6 +197,18 @@ A portfolio website showcasing my developer profile, skills, and projects.
 
 [![View Repository](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AHMED-RAZA24)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-inky-one-47.vercel.app)
+
+
+---
+
+### 🛍️ Borobazar — E-commerce Website
+
+An e-commerce website focused on product browsing and a smooth online shopping experience.
+
+**Tech Stack:** React.js · JavaScript · Tailwind CSS
+
+[![View Repository](https://img.shields.io/badge/Source_Code-GitHub-181818?style=for-the-badge&logo=github)](https://github.com/AHMED-RAZA24)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Website-DC2626?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/AHMED-RAZA24)
 
 </div>
 
